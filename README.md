@@ -55,6 +55,7 @@ library/
  ├── users.js               # Registered users array
  ├── index.js               # Express server entry
  └── client.js              # Axios client for Tasks 10–13
+```
 
 ## ⚙️ Installation
 
